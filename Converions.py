@@ -2,9 +2,6 @@ import os
 os.system('cls')
 
 
-def conversion():
-    print("hi")
-    
 number_bases = [ "Binary", "Decimal", "Octal", "Hexadecimal"]
 running = True
 
